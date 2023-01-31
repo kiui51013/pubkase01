@@ -1,0 +1,13 @@
+$ git --no-pager <git command> <options>
+or
+$ export GIT_PAGER=cat
+or 
+$ LESS="-F -X $LESS"
+--
+
+how to know python version in ipython.
+> get_ipython().system("python --version")
+
+WebDriver:
+ geckodriver exists in /usr/local/bin
+ chromedriver exists in /usr/local/bin
