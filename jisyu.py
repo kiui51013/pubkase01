@@ -1,3 +1,9 @@
+#! /usr/local/bin/env python
+"""
+$ conda activate py3.10
+$ HANAKAGO=password python ./jisyu.py (this file)
+"""
+ 
 import sys, re, os, datetime
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
