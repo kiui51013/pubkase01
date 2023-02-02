@@ -20,6 +20,6 @@ Python WebDriver:
 
 ```
 from selenium import webdriver
-driver = webdriver.Firefox() # loaded from search path
+driver = webdriver.Firefox() # geckodriver loaded from search path
 driver.get(_url)
 ```
