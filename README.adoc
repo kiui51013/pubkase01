@@ -3,17 +3,18 @@
 
 なかなか慣れないね！
 
-まァ、何やっている訳ではないので良いじゃないですか！
-2023年 11月19日 日曜日 21時40分49秒 JST
-total 40
--rw-r--r--  1 noru  staff   379 11 19 21:32 README
--rw-r--r--  1 noru  staff    62 11 19 21:37 README.adoc
--rw-r--r--  1 noru  staff   477 11 19 21:32 README.md
--rw-r--r--  1 noru  staff  2950 11 19 21:32 jisyu.py
--rwxr-xr-x  1 noru  staff   557 11 19 21:32 test1.py
-ProductName:	macOS
-ProductVersion:	12.7.1
-BuildVersion:	21G920
+まァ、何やっている訳ではないので良いじゃないですか！ +
+2023年 11月19日 日曜日 21時40分49秒 JST +
+
+total 40 +
+-rw-r--r--  1 noru  staff   379 11 19 21:32 README +
+-rw-r--r--  1 noru  staff    62 11 19 21:37 README.adoc +
+-rw-r--r--  1 noru  staff   477 11 19 21:32 README.md +
+-rw-r--r--  1 noru  staff  2950 11 19 21:32 jisyu.py +
+-rwxr-xr-x  1 noru  staff   557 11 19 21:32 test1.py +
+ProductName:	macOS +
+ProductVersion:	12.7.1 +
+BuildVersion:	21G920 +
 
 
 
